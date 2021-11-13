@@ -1,6 +1,6 @@
-# Complete EC2 instance
+# aws EC2 & S3
 
-Configuration in this directory creates EC2 instances with different sets of arguments (with Elastic IP, with network interface attached, with credit specifications).
+Configuration in this directory 
 
 ## Usage
 
